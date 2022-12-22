@@ -1,3 +1,13 @@
+--[[
+Consider this proof of work, some scripts I have done in the past. I can show more proof upon request.
+]]
+
+
+
+
+
+
+
 --SCRIPT 1, A CLIENT DATA STORE SYSTEM
 
 --SERVER SCRIPT IN SERVERSCRIPT SERVICE
